@@ -70,7 +70,7 @@ buttons = [
      
     ],
     [     InlineKeyboardButton(
-            text="🎦 H.S.A Group", url="https://telegram.dog/Hindisubsanimes"),
+            text="🎦 AHS Group", url="https://t.me/AHS_official1"),
     
     ],
     [
@@ -84,7 +84,7 @@ buttons = [
 
 
 InlineKeyboardButton(
-            text="🐱 SUPPORT", url="https://telegram.dog/GabiHelpSupport"
+            text="🐱 SUPPORT", url="https://t.me/AHS_official1"
         ),
 
     ],
